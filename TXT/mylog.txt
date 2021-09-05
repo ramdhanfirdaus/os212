@@ -9,3 +9,5 @@ ZCZC W00 05 L04 GitHub Pages related
 ZCZC W00 30 L09 Assignment in General
 ZCZC W00 35 L32 YouTube: study Operating Systems: Visual Metaphor (Udacity)
 ZCZC W00 05 L06 Download slides Operating System Concepts Tenth Edition
+ZCZC W00 20 Youtobe: study Introduction to Operating System in Neso Academy
+ZCZC W00 20 Youtobe: study Basics of OS (Computer System Operation) in Neso Academy
