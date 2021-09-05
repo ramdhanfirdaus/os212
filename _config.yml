@@ -18,17 +18,17 @@ navbarlinks:
 - navbar:    "TarBall"
   link:      "/template.tar.bz2"
 - navbar:    "GitHub"
-  link:      "https://github.com/ThisIsHowMeDoIt/template/"
+  link:      "https://github.com/ramdhanfirdaus/os212"
 - navbar:    "Listing"
   link:      "/000.html"
 - navbar:    "About"
   link:      "/ABOUT/"
 - navbar:    "GitHub Page"
-  link:      "https://template.vlsm.org/"
+  link:      "https://ramdhanfirdaus.github.io/os212/"
 title:       "GitHub Page Template"
 lang:        "en-US"
-author:      "J. Walker"
-address:     "Box 7, Mawitaan, Bangalla."
+author:      "Ramdhan Firdaus Amelia"
+address:     "Cirebon, Jawa Barat"
 sitemap:     "true"
 markdown:    "kramdown"
 defaults:
@@ -43,8 +43,8 @@ plugins:
 - jekyll-seo-tag
 google_analytics: "UA-89852122-15"
 
-urlweb:           "https://template.vlsm.org/"
+urlweb:           "https://ramdhanfirdaus.github.io/os212/"
 urlcontact:       "TBA"
-urlgithub:        "https://github.com/ThisIsHowMeDoIt/template"
+urlgithub:        "https://github.com/ramdhanfirdaus/os212"
 
 
