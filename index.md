@@ -9,8 +9,8 @@ I am {{ site.author }}, {{ site.address }}
 <br>
 ## Table Example
 
-| [HOME]({{ site.baseurl }}/) | [GitHub]({{ site.urlgithub }}) | [GitHub Page]({{ site.urlweb }}) |
-| [My Logs]({{ https://ramdhanfirdaus.github.io/os212/TXT/mylog.txt }}) | [LISTINGS]({{ site.baseurl }}/000.html) | [ABOUT]({{ site.baseurl }}/ABOUT/) |
+| [Home]({{ site.baseurl }}/) | [GitHub]({{ site.urlgithub }}) | [GitHub Page]({{ site.urlweb }}) |
+| [My Log]({{ https://ramdhanfirdaus.github.io/os212/TXT/mylog.txt }}) | [Listing]({{ site.baseurl }}/000.html) | [About]({{ site.baseurl }}/ABOUT/) |
 
 <br>
 ## Source Code
