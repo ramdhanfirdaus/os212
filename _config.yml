@@ -9,8 +9,6 @@ keywords:    "jekyll, testing"
 navbarlinks:
 - navbar:    "Home"
   link:      "/"
-- navbar:    "Links"
-  link:      "/LINKS/"
 - navbar:    "GitHub"
   link:      "https://github.com/ramdhanfirdaus/os212"
 - navbar:    "GitHub Page"
