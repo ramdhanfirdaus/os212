@@ -2,7 +2,7 @@
 ---
 
 <br>
-This [GitHub Page](site.urlweb) is hosted at [GitHub.com]({{ site.urlgithub }}).
+This [GitHub Page]({{ site.urlweb }}) is hosted at [GitHub.com]({{ site.urlgithub }}).
 
 I am {{ site.author }}, {{ site.address }}
 
