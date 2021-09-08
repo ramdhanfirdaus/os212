@@ -13,7 +13,7 @@ navbarlinks:
   link:      "https://github.com/ramdhanfirdaus/os212"
 - navbar:    "GitHub Page"
   link:      "https://ramdhanfirdaus.github.io/os212/"
-- navbar:    "My Logs"
+- navbar:    "My Log"
   link:      "https://ramdhanfirdaus.github.io/os212/TXT/mylog.txt"
 - navbar:    "About"
   link:      "/ABOUT/"
