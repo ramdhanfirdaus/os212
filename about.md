@@ -4,8 +4,8 @@ permalink: /ABOUT/
 
 # About
 
-This is a GitHub Page template on GitHub.
-Fill free to clone/fork/hijack/whatever it!
+Hi, I’m @ramdhanfirdaus from Operating System 2021-2 C
+This is a GitHub Page for Operating Systems
 
 <br>
 # More Information
