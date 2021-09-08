@@ -9,7 +9,7 @@ I am {{ site.author }}, {{ site.address }}
 <br>
 ## Table Example
 
-| [HOME]({{ site.baseurl }}/) | [GitHub]({{ site.urlgithub }}) | [WEB]({{ site.urlweb }}) |
+| [HOME]({{ site.baseurl }}/) | [GitHub]({{ site.urlgithub }}) | [GitHub Page]({{ site.urlweb }}) |
 | [My Logs]({{ https://ramdhanfirdaus.github.io/os212/TXT/mylog.txt }}) | [LISTINGS]({{ site.baseurl }}/000.html) | [ABOUT]({{ site.baseurl }}/ABOUT/) |
 
 <br>
