@@ -15,6 +15,8 @@ navbarlinks:
   link:      "https://ramdhanfirdaus.github.io/os212/"
 - navbar:    "My Logs"
   link:      "https://ramdhanfirdaus.github.io/os212/TXT/mylog.txt"
+- navbar:    "About"
+  link:      "/ABOUT/"
 - navbar:    "Listing"
   link:      "/000.html"
 title:       "GitHub Page Operating Systems"
