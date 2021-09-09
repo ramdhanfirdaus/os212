@@ -14,4 +14,4 @@ ZCZC W00 20 L32 YouTube: study Basics of OS (Computer System Operation) in Neso 
 ZCZC W00 45 L70 Study Aljabar Linear
 ZCZC W00 100 L02 ZOOM meetings class
 ZCZC W01 05 L11 Assignment #01
-ZCZC W01 45 L12 Assignment #02
+ZCZC W01 90 L12 Assignment #02
