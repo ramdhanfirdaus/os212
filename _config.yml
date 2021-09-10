@@ -16,7 +16,7 @@ navbarlinks:
 - navbar:    "Zip File"
   link:      "/template.zip"
 - navbar:    "TarBall"
-  link:      "/template.tar.bz2"
+  link:      "https://os.vlsm.org/Log/ramdhanfirdaus.tar.bz2.txt"
 - navbar:    "GitHub"
   link:      "https://github.com/ramdhanfirdaus/os212"
 - navbar:    "Listing"
