@@ -26,6 +26,3 @@ This is a GitHub Page for Operating Systems
 </li></ul><br>
 
 # Qapla!
-
-
-
