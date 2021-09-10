@@ -2,7 +2,7 @@ version:     "0018b--03-Aug-2021"
 copyright:   "2021-2021"
 description:
   This is a
-  GitHub Page Template
+  GitHub Page Operating Systems
 disclaimer:
   I have spoken.
 keywords:    "jekyll, testing"
@@ -25,10 +25,10 @@ navbarlinks:
   link:      "/ABOUT/"
 - navbar:    "GitHub Page"
   link:      "https://template.vlsm.org/"
-title:       "GitHub Page Template"
+title:       "GitHub Page Operating Systems"
 lang:        "en-US"
-author:      "J. Walker"
-address:     "Box 7, Mawitaan, Bangalla."
+author:      "Ramdhan Firdaus Amelia"
+address:     "Cirebon, Jawa Barat"
 sitemap:     "true"
 markdown:    "kramdown"
 defaults:
@@ -43,6 +43,6 @@ plugins:
 - jekyll-seo-tag
 google_analytics: "UA-89852122-15"
 
-urlweb:           "https://template.vlsm.org/"
+urlweb:           "https://ramdhanfirdaus.github.io/os212/"
 urlcontact:       "TBA"
-urlgithub:        "https://github.com/ThisIsHowMeDoIt/template"
+urlgithub:        "https://github.com/ramdhanfirdaus/os212"
