@@ -21,7 +21,7 @@ I am {{ site.author }}, {{ site.address }}
 ## Important Links
 
 * [GitHub]({{ site.urlgithub }})
-* [My Log]({{ site.urlgithub }}/TXT/mylog.txt)
+* [My Log](https://ramdhanfirdaus.github.io/os212/TXT/mylog.txt)
 * [Links]({{ site.baseurl }}/LINKS/)
 
 <br>
