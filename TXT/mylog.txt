@@ -20,3 +20,5 @@ ZCZC W01  90 L08 Asistensi dengan Asdos OS
 ZCZC W01  20 L21 Trying make a file with all commands
 ZCZC W01  30 L14 Assignment #04
 ZCZC W01  30 L15 Assignment #05
+ZCZC W01  60 L16 Assignment #06
+ZCZC W01 100 L64 Helping Friend to Install VirtualBox 
