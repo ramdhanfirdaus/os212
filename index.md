@@ -13,8 +13,8 @@ I am {{ site.author }}, {{ site.address }}
 ## Table Example
 
 | [HOME]({{ site.baseurl }}/) | [MY LOG](https://ramdhanfirdaus.github.io/os212/TXT/mylog.txt) | [LINKS]({{ site.baseurl }}/LINKS/) |
-| [GITHUB]({{ site.urlgithub }}) | [TARBALL](https://os.vlsm.org/Log/ramdhanfirdaus.tar.bz2.txttemplate.tar.bz2) | [TIPS]({{ site.baseurl }}/TIPS/) |
-| [LISTING]({{ site.urlgithub }}/000.html) | [ABOUT]({{ site.baseurl }}/ABOUT/) | [WEB]({{ site.urlweb }}) |
+| [GITHUB]({{ site.urlgithub }}) | [TARBALL](https://os.vlsm.org/Log/ramdhanfirdaus.tar.bz2.txt) | [TIPS]({{ site.baseurl }}/TIPS/) |
+| [LISTING]({{ site.baseurl }}/000.html) | [ABOUT]({{ site.baseurl }}/ABOUT/) | [WEB]({{ site.urlweb }}) |
 
 <br>
 ## Important Links
