@@ -13,8 +13,10 @@ ZCZC W00  20 L32 YouTube: study Introduction to Operating System in Neso Academy
 ZCZC W00  20 L32 YouTube: study Basics of OS (Computer System Operation) in Neso Academy
 ZCZC W00  45 L70 Study Aljabar Linear
 ZCZC W00 100 L02 ZOOM meetings class
+ZCZC W01 100 L02 ZOOM meetings class
 ZCZC W01   5 L11 Assignment #01
 ZCZC W01  90 L12 Assignment #02
+ZCZC W00 100 L02 ZOOM meetings class
 ZCZC W01  60 L13 Assignment #03
 ZCZC W01  90 L08 Asistensi dengan Asdos OS
 ZCZC W01  20 L21 Trying make a file with all commands
