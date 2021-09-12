@@ -4,17 +4,17 @@ permalink: /LINKS/
 
 # LINKS
 
-1. [One](https://en.wikipedia.org/wiki/1)<br>
-StarBucks ipsum dolor J.CO Do Not!
-McD ipsum dolor Wendy's Burger King.
-KFC urna libero, in purus hana masa, tempor hokben lorem.
+1. [os.vlsm.org](https://os.vlsm.org/)<br>
+This is the CSCM-602055 Operating System course site, a GitHub Page, hosted at GitHub.com (thank you!).
+It is managed by VauLSMorg (vlsm.org) since 2018.
+This site contains links to lecture materials, exam questions, and laboratory materials.
+It is based on “Google Here, Google There, Try This, Try That, and then Ask Anybody (GHGTT4A2)”
 
-2. [Two](https://en.wikipedia.org/wiki/2)<br>
-Sweet roll lollipop tootsie roll cheesecake marshmallow macaroon chocolate bar biscuit candy.
-Donut chocolate cake sugar plum icing dragée pie.
-Chocolate marzipan jelly-o soufflé donut pudding apple pie jelly beans.
 
-3. [Three](https://en.wikipedia.org/wiki/3)<br>
-Liquorice bonbon lemon drops marshmallow.
-Sweet roll gummies gummies jelly tiramisu chocolate fruitcake.
-Jelly chocolate jelly beans marzipan brownie bonbon muffin.
+2. [Scele-OS](https://scele.cs.ui.ac.id/course/view.php?id=3268)<br>
+This is the Operating System course in Scele (Student Centre E-Learning Environment).
+This website manage by Fakultas Ilmu Komputer.
+
+
+3. [Log Codes](https://osp4diss.vlsm.org/ETC/logCodes.txt)<br>
+All of log codes to fill in mylog.txt.
