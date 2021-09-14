@@ -16,5 +16,30 @@ This is the Operating System course in Scele (Student Centre E-Learning Environm
 This website manage by Fakultas Ilmu Komputer.
 
 
-3. [Log Codes](https://osp4diss.vlsm.org/ETC/logCodes.txt)<br>
+3. [Summary Link From Teaching Assistant](https://osp4diss.vlsm.org/osp-115.html)
+Summary of operating systems course material given by a Teaching Asistant
+
+
+4. [Summary Link From Teaching Assistant](https://osp4diss.vlsm.org/osp-115.html)
+Summary of operating systems course material given by a Teaching Asistant
+
+
+5. [OS BOOK](https://www.os-book.com/OS10/slide-dir/)<br>
+The slides are copyright Silberschatz, Galvin and Gagne, 2018.
+The slides are authorized for personal use, and for use in conjunction with a course for which Operating System Concepts is the prescribed text.
+Instructors are free to modify the slides to their taste, as long as the modified slides acknowledge the source and the fact that they have been modified. 
+Paper copies of the slides may be sold strictly at the price of reproduction, to students of courses where the book is the prescribed text.
+Any use that differs from the above, and any for profit sale of the slides (in any form) requires the consent of the copyright owners; contact Avi Silberschatz (avi@cs.yale.edu) to obtain the copyright owners consent.
+
+
+6. [Youtube Neso Academy](https://www.youtube.com/playlist?list=PLBlnK6fEyqRiVhbXDGLXDk_OQAeuVcp2O)
+Link Youtube Operating System from Neso Academy
+
+
+7. [Linux Website](https://www.linux.org/)<br>
+This is Official Website of Linux.
+We can see Forums, study Linux Tutorials, download Linux, etc.
+
+
+8. [Log Codes](https://osp4diss.vlsm.org/ETC/logCodes.txt)<br>
 All of log codes to fill in mylog.txt.
