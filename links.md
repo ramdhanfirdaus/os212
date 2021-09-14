@@ -16,7 +16,7 @@ This is the Operating System course in Scele (Student Centre E-Learning Environm
 This website manage by Fakultas Ilmu Komputer.
 
 
-3. [Summary Link From Teaching Assistant](https://osp4diss.vlsm.org/osp-115.html)
+3. [Summary Link From Teaching Assistant](https://osp4diss.vlsm.org/osp-115.html)<br>
 Summary of Operating Systems course material given by a Teaching Asistant.
 
 
@@ -28,7 +28,7 @@ Paper copies of the slides may be sold strictly at the price of reproduction, to
 Any use that differs from the above, and any for profit sale of the slides (in any form) requires the consent of the copyright owners; contact Avi Silberschatz (avi@cs.yale.edu) to obtain the copyright owners consent.
 
 
-5. [Youtube Neso Academy](https://www.youtube.com/playlist?list=PLBlnK6fEyqRiVhbXDGLXDk_OQAeuVcp2O)
+5. [Youtube Neso Academy](https://www.youtube.com/playlist?list=PLBlnK6fEyqRiVhbXDGLXDk_OQAeuVcp2O)<br>
 Link Youtube Operating System from Neso Academy.
 
 
