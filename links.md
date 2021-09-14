@@ -18,6 +18,7 @@ This website manage by Fakultas Ilmu Komputer.
 
 3. [Summary Link From Teaching Assistant](https://osp4diss.vlsm.org/osp-115.html)<br>
 Summary of Operating Systems course material given by a Teaching Asistant.
+Good for study.
 
 
 4. [OS BOOK](https://www.os-book.com/OS10/slide-dir/)<br>
@@ -30,6 +31,7 @@ Any use that differs from the above, and any for profit sale of the slides (in a
 
 5. [Youtube Neso Academy](https://www.youtube.com/playlist?list=PLBlnK6fEyqRiVhbXDGLXDk_OQAeuVcp2O)<br>
 Link Youtube Operating System from Neso Academy.
+Good for study.
 
 
 6. [Linux Website](https://www.linux.org/)<br>
