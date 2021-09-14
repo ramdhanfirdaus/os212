@@ -24,16 +24,4 @@ I am {{ site.author }}, {{ site.address }}
 * [Links]({{ site.baseurl }}/LINKS/)
 
 <br>
-## Source Code
-
-```
-#include <stdio.h>
-
-int main(void) {
-    prinf("As.w.w.\n");
-}
-
-```
-
-<br>
 Qapla!
