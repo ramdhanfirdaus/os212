@@ -17,7 +17,7 @@
 /* See https://www.quackit.com/css/color/charts/hsl_color_chart.cfm */
 .plainclass1 {
   color:            hsl(0, 100%, 100%);
-  background-color: hsl(91deg 100% 9%);
+  background-color: hsl(36deg 35% 65%);
   line-height:      120%;
   font-family:      monospace,courier;
 }
@@ -27,15 +27,15 @@
 }
 
 .plainclass1 h1 {
-  color:            hsl(100, 50%, 50%);
+  color:            hsl(0deg 0% 100%);
 }
 
 .plainclass1 h2 {
-  color:            hsl(100, 50%, 50%);
+  color:            hsl(0deg 0% 100%);
 }
 
 .plainclass1 h3 {
-  color:            hsl(100, 50%, 50%);
+  color:            hsl(0deg 0% 100%);
 }
 
 .container {
@@ -46,7 +46,7 @@
 }
 
 .container a {
-  color: #a0a0a0;
+  color: black;
 }
 
 .container a:hover {
@@ -137,7 +137,7 @@
 
 .navbar ul li {
   display:          inline-block;
-  background-color: hsla(0,     0%,    0%, 1);
+  background-color: hsl(24deg 25% 80%);
   padding:          11px;
 }
 
@@ -146,7 +146,7 @@
 }
 
 .navbar ul li a:hover {
-  background-color: hsla(255,   100%,   50%, 1);
+  background-color: black;
   font-size:        1.15em;
   font-weight:      bold;
   padding:          2px;
