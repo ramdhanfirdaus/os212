@@ -27,8 +27,11 @@ ZCZC W01 100 L64 Helping Friend to Install VirtualBox
 ZCZC W01  20 L17 Assignment #07
 ZCZC W01  60 L18 Assignment #08
 ZCZC W01  60 L19 Assignment #09
+ZCZC W02 100 L02 ZOOM meetings class
 ZCZC W02  30 L09 Assignment in General (Generating a GnuPG KEY PAIR until Signing the Operating Systems public key (Optional))
 ZCZC W02  30 L09 Assignment in General (Update your bookmark links and Review your peer links)
 ZCZC W02  20 L04 Update GitHub Pages
 ZCZC W02  10 L09 Assignment in General (Write a simple "myscript.sh" script)
 ZCZC W02  10 L04 Update Github Pages
+ZCZC W02 100 L02 ZOOM meetings class
+ZCZC W02  60 L26 Demos c-language
