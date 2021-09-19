@@ -36,4 +36,5 @@ ZCZC W02  10 L04 Update Github Pages
 ZCZC W02 100 L02 ZOOM meetings class
 ZCZC W02  60 L26 Demos c-language
 ZCZC W02 100 L09 Assigment in General (Read OSC10 Chapter 16 + 17)
-ZCZC W02 120 L32 Study Cyber Security Introduction in Eli the Computer Guy Youtobe Channels
+ZCZC W02 120 L32 Study Cyber Security Introduction in Eli the Computer Guy Youtube Channels
+ZCZC W02 120 L32 Employee Security Policy in Eli the Computer Youtube Channels
