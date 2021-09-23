@@ -22,6 +22,8 @@ I am {{ site.author }}, {{ site.address }}
 * [GitHub]({{ site.urlgithub }})
 * [My Log](https://ramdhanfirdaus.github.io/os212/TXT/mylog.txt)
 * [Links]({{ site.baseurl }}/LINKS/)
+* [My Rank](https://ramdhanfirdaus.github.io/os212/TXT/myrank.txt)
+
 
 <br>
 Qapla!
