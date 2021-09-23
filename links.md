@@ -43,11 +43,11 @@ We can see Forums, study Linux Tutorials, download Linux, etc.
 Link Youtube Operating System from Neso Academy.
 
 
-2 [Youtube Neso Academy - C Programming](https://www.youtube.com/playlist?list=PLBlnK6fEyqRiVhbXDGLXDk_OQAeuVcp2O)<br>
+2. [Youtube Neso Academy - C Programming](https://www.youtube.com/playlist?list=PLBlnK6fEyqRiVhbXDGLXDk_OQAeuVcp2O)<br>
 Link Youtube C Programming from Neso Academy.
 
 
-3 [Cybersecurity Playlist](https://www.youtube.com/playlist?list=PLJcaPjxegjBXtpdrZ4Blxgo-juMUfFovf)<br>
+3. [Cybersecurity Playlist](https://www.youtube.com/playlist?list=PLJcaPjxegjBXtpdrZ4Blxgo-juMUfFovf)<br>
 Link Youtobe Cybersecurity from Eli the Computer Guy.
 
 
