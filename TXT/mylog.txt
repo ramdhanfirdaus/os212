@@ -50,5 +50,5 @@ ZCZC W03  30 L80 Waching: Youtube
 ZCZC W03   5 L04 GitHub Pages related
 ZCZC W03  60 L01 Zoom meetings class
 ZCZC W03  90 L11 Assignment #01
-ZCZC W03  60 L12 Assignment #03
-
+ZCZC W03  60 L13 Assignment #03
+ZCZC W03  10 L19 Assignment #09
