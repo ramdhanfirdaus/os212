@@ -57,4 +57,6 @@ Good for study C Languages.
 This website provides basic and advanced learning.
 There is no need to download anything - Just click on the chapter you wish to begin from, and follow the instructions.  
 
-
+# WEEK 4
+2. [C-Pointers](https://www.guru99.com/c-pointers.html)<br>
+Pointers in C Programming: What is Pointer, Types & Examples.
