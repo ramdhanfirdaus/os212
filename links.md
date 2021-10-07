@@ -20,7 +20,6 @@ This website manage by Fakultas Ilmu Komputer.
 All of log codes to fill in mylog.txt.
 
 
-
 # WEEK 1
 1. [Summary Link From Teaching Assistant](https://osp4diss.vlsm.org/osp-115.html)<br>
 Summary of Operating Systems course material given by a Teaching Asistant.
@@ -35,7 +34,6 @@ Instructors are free to modify the slides to their taste, as long as the modifie
 3. [Linux Website](https://www.linux.org/)<br>
 This is Official Website of Linux.
 We can see Forums, study Linux Tutorials, download Linux, etc.
-
 
 
 # WEEK 2
@@ -57,6 +55,12 @@ Good for study C Languages.
 This website provides basic and advanced learning.
 There is no need to download anything - Just click on the chapter you wish to begin from, and follow the instructions.  
 
+
 # WEEK 4
-2. [C-Pointers](https://www.guru99.com/c-pointers.html)<br>
+1. [C-Pointers](https://www.guru99.com/c-pointers.html)<br>
 Pointers in C Programming: What is Pointer, Types & Examples.
+
+
+# WEEK 5
+1.[Encrypt Decrypt](https://www.thefastcode.com/id-idr/article/how-to-encrypt-and-decrypt-files-with-gpg-on-linux)<br>
+Cara Mengenkripsi dan Mendekripsi File Dengan GPG di Linux. 

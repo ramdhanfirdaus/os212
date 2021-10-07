@@ -63,4 +63,17 @@ ZCZC W04  15 L15 Assignment #05
 ZCZC W04  15 L16 Assignment #06
 ZCZC W04  10 L17 Assignment #07
 ZCZC W04  10 L18 Assignment #08
-ZCZC W03  10 L19 Assignment #09
+ZCZC W04  10 L19 Assignment #09
+ZCZC W05 100 L01 Zoom meetings class
+ZCZC W05  90 L11 Assignment #01
+ZCZC W05  90 L12 Assignment #02
+ZCZC W05 120 L13 Assignment #03
+ZCZC W05 100 L64 Helping Friend
+ZCZC W05  30 L14 Assignment #04
+ZCZC W05  20 L15 Assignment #05
+ZCZC W05  20 L16 Assignment #06
+ZCZC W05  15 L17 Assignment #07
+ZCZC W05  15 L18 Assignment #08
+ZCZC W05 100 L01 Zoom meetings class
+ZCZC W05 120 L80 Watching: Youtube NESO ACADEMY
+ZCZC W05  10 L19 Assignment #09
