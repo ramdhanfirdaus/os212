@@ -8,3 +8,7 @@ permalink: /TIPS/
 Memperbanyak asistensi dengan Asisten Dosen.
 Akan tetapi, alangkah lebih baik saat asistensi dibagi per kelas supaya tidak terlalu banyak.
 
+2. [Rekaman Kelas]<br>
+Untuk kelas online seperti ini, kita tidak tau koneksi internet setiap mahasiswa pada saat tertentu.
+Bisa jadi terdapat mahasiswa yang mengalami kendala internet pada saat kelas.
+Alangkah baiknya kelas direkam dan rekaman dibagikan kepada mahasiswa.

@@ -64,3 +64,10 @@ Pointers in C Programming: What is Pointer, Types & Examples.
 # WEEK 5
 1.[Encrypt Decrypt](https://www.thefastcode.com/id-idr/article/how-to-encrypt-and-decrypt-files-with-gpg-on-linux)<br>
 Cara Mengenkripsi dan Mendekripsi File Dengan GPG di Linux. 
+
+
+# WEEK 6
+1.[Concurrency in Operating System](https://www.geeksforgeeks.org/concurrency-in-operating-system/)<br>
+Sedikit materi terkait Concurrency. 
+Mencakup pengertian, Principles of Concurrenc, Problems in Concurrency, Advantages of Concurrency, Drawbacks of Concurrency, dan Issues of Concurrency.
+
