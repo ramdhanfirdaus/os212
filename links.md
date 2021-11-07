@@ -71,3 +71,13 @@ Cara Mengenkripsi dan Mendekripsi File Dengan GPG di Linux.
 Sedikit materi terkait Concurrency. 
 Mencakup pengertian, Principles of Concurrenc, Problems in Concurrency, Advantages of Concurrency, Drawbacks of Concurrency, dan Issues of Concurrency.
 
+# WEEK 7
+1. [What is a semaphore? How do they work? (Example in C) - Video](https://www.youtube.com/watch?v=ukM_zzrIeXs&ab_channel=JacobSorber)<br>
+Video Youtobe yang menjelaskan bagaimana cara bekerja suatu semaphore.
+Dalam video ini juga diberikan contoh penggunaan dalam bahasa C.
+
+2. [Deadlock Characterization](https://www.tutorialspoint.com/deadlock-characterization)<br>
+Website yang menjelaskan jenis-jenis deadlock.
+
+3. [Unix Threads in C](https://www.youtube.com/watch?v=d9s_d28yJq0&list=PLfqABt5AS4FmuQf70psXrsMLEDQXNkLq2)<br>
+Playlist youtobe yang berisikan penjelasan terkait Unix Threads in C.

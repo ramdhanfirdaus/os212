@@ -88,3 +88,16 @@ ZCZC W06  20 L16 Assignment #06
 ZCZC W06  15 L17 Assignment #07
 ZCZC W06  15 L18 Assignment #08
 ZCZC W06  10 L19 Assignment #09
+ZCZC W07 100 L01 Zoom meetings class
+ZCZC W07  90 L11 Assignment #01
+ZCZC W07  90 L12 Assignment #02
+ZCZC W07 100 L32 Youtube Recording Pak Anwar
+ZCZC W07 100 L01 Zoom meetings class
+ZCZC W07  60 L13 Assignment #03
+ZCZC W07  10 L14 Assignment #04
+ZCZC W07  15 L15 Assignment #05
+ZCZC W07  15 L16 Assignment #06
+ZCZC W07  10 L17 Assignment #07
+ZCZC W07  10 L18 Assignment #08
+ZCZC W07  10 L19 Assignment #09
+
