@@ -81,3 +81,13 @@ Website yang menjelaskan jenis-jenis deadlock.
 
 3. [Unix Threads in C](https://www.youtube.com/watch?v=d9s_d28yJq0&list=PLfqABt5AS4FmuQf70psXrsMLEDQXNkLq2)<br>
 Playlist youtobe yang berisikan penjelasan terkait Unix Threads in C.
+
+# WEEK 8
+1. [How to compile Linux From Scratch 11.0 on an Apple iMac](https://www.youtube.com/playlist?list=PLyc5xVO2uDsDK5_zewRXYOZA0cyjwcboE)<br>
+Playlist Youtobe from Kernotex.
+
+2. [What is the difference between Preemptive and Non-Preemptive scheduling?](https://afteracademy.com/blog/what-is-the-difference-between-preemptive-and-non-preemptive-scheduling)<br>
+Menjelaskan mengenai perbedaan penting antara Preemptive & Non-Preemptive scheduling, disertai beberapa link untuk lebih lanjut memahami terkait materi-materi yang dibahas.
+
+3. [Scheduling Algorithm - Playlist](https://youtube.com/playlist?list=PLBlnK6fEyqRitWSE_AyyySWfhRgyA-rHk)<br>
+Playlist lengkap yang menjelaskan masing-masing algoritma scheduling dalam operating system.

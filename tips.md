@@ -15,3 +15,5 @@ Alangkah baiknya kelas direkam dan rekaman dibagikan kepada mahasiswa.
 
 3. [Menonton Kelas Semester Sebelumnya]<br>
 Untuk mahasiswa yang mengambil OS pada semester-semester depan disarankan mempelajari dahulu dari rekaman kelas-kelas sebelumnya.
+
+4. [Kerjakan Week 08 dengan menonton playlist YouTube dan dokumentasi LFS]
